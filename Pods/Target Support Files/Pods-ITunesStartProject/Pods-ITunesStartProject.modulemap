@@ -1,0 +1,6 @@
+framework module Pods_ITunesStartProject {
+  umbrella header "Pods-ITunesStartProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

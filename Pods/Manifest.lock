@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Dip (6.0)
+  - IQKeyboardManagerSwift (5.0.0)
+  - Kingfisher (4.7.0)
+  - Moya (10.0.1):
+    - Moya/Core (= 10.0.1)
+  - Moya/Core (10.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - PKHUD (5.0.0)
+  - PromiseKit (6.2.1):
+    - PromiseKit/CorePromise (= 6.2.1)
+    - PromiseKit/Foundation (= 6.2.1)
+    - PromiseKit/UIKit (= 6.2.1)
+  - PromiseKit/CorePromise (6.2.1)
+  - PromiseKit/Foundation (6.2.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.2.1):
+    - PromiseKit/CorePromise
+  - Result (3.2.4)
+
+DEPENDENCIES:
+  - Alamofire (= 4.6.0)
+  - Dip (= 6.0)
+  - IQKeyboardManagerSwift (= 5.0)
+  - Kingfisher (~> 4.0)
+  - Moya (= 10.0.1)
+  - PKHUD (= 5.0)
+  - PromiseKit (= 6.2.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Dip
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Moya
+    - PKHUD
+    - PromiseKit
+    - Result
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Dip: 316ad036509eaf3ef78e19699f32a9e01a5b3c3e
+  IQKeyboardManagerSwift: 3f340202ebe1a7076279b9b9b3c817243ddb3aab
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+  Moya: 9e621707ff754eeb51ff3ec51a3d54e517c0733a
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+  PromiseKit: edaca6f0a7ed73b08c287600537d13867a7fabc7
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+
+PODFILE CHECKSUM: c936dada9a0eec5eb437988998e3bddd8831f1cc
+
+COCOAPODS: 1.5.0
